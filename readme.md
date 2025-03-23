@@ -1,8 +1,13 @@
+# Languages
+
+- [English](readme.md)
+- [中文](readme_zh.md)
+
 # What's this
 
 This simple tool creates a translation service that uses CloudFlare's workers AI.
 
-# How to use
+# How to deploy
 
 - Create a worker in CloudFlare dashboard
 - Create in `Binding` section of settings of the worker
