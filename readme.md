@@ -16,7 +16,7 @@ This simple tool creates a translation service that uses CloudFlare's workers AI
   - Variable name: `AI`
 - Create this environmental variable in `Variables and Secrets` section of settings of the worker:
   - Variable name: `API_KEY`
-  - Value: `<-----key-that-you-prefere------>`
+  - Value: `<-----key-that-you-prefer------>`
 - Edit the code of the worker
 - Copy paste `worker.js` to the editor page, and hit 'Deploy'
 - `Optional`: set a custom domain if you want
