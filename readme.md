@@ -96,5 +96,3 @@ Here are all the possible responses:
   "error": "[error message]"
 }
 ```
-
-In each case, the HTTP status code of the response will match the "code" field in the JSON body, making it easier for clients to handle errors at both the HTTP and application levels.
